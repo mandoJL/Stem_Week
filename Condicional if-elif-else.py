@@ -4,4 +4,4 @@ if resp == "Si":
 elif resp=="No":
     print("Super F y se escucha de fondo la canción fake de titanic :(")
 else:
-    print("De lo que te pierdes mi ciela")
+    print("Que sad")
