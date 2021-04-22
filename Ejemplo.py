@@ -1,1 +1,1 @@
-print ("Este es mi primer repo")
+print ("Este es mi primer repositorio en Github")
